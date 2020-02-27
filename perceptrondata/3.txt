@@ -1,0 +1,70 @@
+02-04 17:48:37.583 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.13076697,92.25
+02-04 17:48:37.660 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.14422205,92.25
+02-04 17:48:37.884 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.13379088,92.25
+02-04 17:48:38.099 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.12041595,92.25
+02-04 17:48:38.289 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.13416408,92.25
+02-04 17:48:38.418 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 2.531462,92.0625
+02-04 17:48:38.542 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 3.4061856,92.0625
+02-04 17:48:38.630 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.5731497,91.875
+02-04 17:48:38.739 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.4140368,91.625
+02-04 17:48:38.764 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.4140368,91.5625
+02-04 17:48:38.821 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.74518454,91.25
+02-04 17:48:38.875 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 2.1982946,91.125
+02-04 17:48:38.961 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.4638306,90.6875
+02-04 17:48:39.136 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.0374006,89.875
+02-04 17:48:39.212 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.6942622,89.5625
+02-04 17:48:39.328 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.3392909,89.1875
+02-04 17:48:39.406 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.7312711,88.9375
+02-04 17:48:39.461 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 2.0295074,88.75
+02-04 17:48:39.588 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.9502051,84.75
+02-04 17:48:39.792 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 2.5677617,76.3125
+02-04 17:48:39.938 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.295804,72.9375
+02-04 17:48:39.983 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.845281,72.125
+02-04 17:48:40.022 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.43428102,71.5
+02-04 17:48:40.075 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.86977005,71.125
+02-04 17:48:40.122 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.23043437,70.75
+02-04 17:48:40.294 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 3.1635897,69.6875
+02-04 17:48:40.383 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.7860851,68.9375
+02-04 17:48:40.518 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.5987487,67.9375
+02-04 17:48:40.571 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.2780288,67.5
+02-04 17:48:40.614 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.29883105,67.0625
+02-04 17:48:40.690 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.44045433,66.6875
+02-04 17:48:40.934 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.8866792,64.375
+02-04 17:48:41.090 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.4145317,62.9375
+02-04 17:48:41.179 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.54120237,61.875
+02-04 17:48:41.231 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.72456884,61.3125
+02-04 17:48:41.302 2120-2130/com.qualcomm.ftcrobotcontroller I/art: Background partial concurrent mark sweep GC freed 443444(15MB) AllocSpace objects, 1(64KB) LOS objects, 25% free, 46MB/62MB, paused 1.790ms total 118.433ms
+02-04 17:48:41.341 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.1167811,60.1875
+02-04 17:48:41.486 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.6546755,58.5
+02-04 17:48:41.647 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.7117584,56.8125
+02-04 17:48:41.697 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.80380344,56.25
+02-04 17:48:41.747 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.58677083,55.75
+02-04 17:48:41.832 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.0220568,55.0
+02-04 17:48:41.898 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.9964437,54.3125
+02-04 17:48:42.096 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.8891007,52.5625
+02-04 17:48:42.238 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.83868945,50.875
+02-04 17:48:42.292 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.90642154,50.25
+02-04 17:48:42.379 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.87783825,49.3125
+02-04 17:48:42.542 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.45133138,47.1875
+02-04 17:48:42.700 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.3685105,44.75
+02-04 17:48:42.825 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.6720863,43.125
+02-04 17:48:42.929 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.4259733,41.375
+02-04 17:48:43.010 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.2424974,40.125
+02-04 17:48:43.081 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.62633854,39.3125
+02-04 17:48:43.249 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.5785437,37.0625
+02-04 17:48:43.425 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 2.0739095,35.3125
+02-04 17:48:43.470 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.75756186,35.5625
+02-04 17:48:43.544 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 1.1451638,35.4375
+02-04 17:48:43.584 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.46626174,35.4375
+02-04 17:48:43.611 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.46626174,35.5
+02-04 17:48:43.722 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.9872183,35.5
+02-04 17:48:43.739 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.9872183,35.5
+02-04 17:48:43.822 2120-2683/com.qualcomm.ftcrobotcontroller I/[DF]: 0.7524626,35.6875
+02-04 17:48:43.992 2120-2644/com.qualcomm.ftcrobotcontroller I/RobotCore: ******************** STOP - OPMODE /storage/emulated/0/FIRST/matchlogs/Match-0-9911DT-DataFetcher.txt ********************
+02-04 17:48:43.996 2120-2644/com.qualcomm.ftcrobotcontroller I/RobotCore: Pruning old logs deleting Match-0-9911DT-DataFetcher.txt
+02-04 17:48:44.000 2120-2894/com.qualcomm.ftcrobotcontroller E/LynxI2cDeviceSynch: placeholder: readStatusQuery
+02-04 17:48:44.001 2120-2904/com.qualcomm.ftcrobotcontroller I/RobotCore: saving match logcat to /storage/emulated/0/FIRST/matchlogs/Match-0-9911DT-DataFetcher.txt
+02-04 17:48:44.001 2120-2904/com.qualcomm.ftcrobotcontroller I/RobotCore: logging command line: exec logcat -d -T '2-4 17:48:16.000' -f /storage/emulated/0/FIRST/matchlogs/Match-0-9911DT-DataFetcher.txt -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-04 17:48:44.001 2120-2683/com.qualcomm.ftcrobotcontroller I/RobotCore: Attempting to switch to op mode $Stop$Robot$
+02-04 17:48:44.103 2120-2904/com.qualcomm.ftcrobotcontroller I/RobotCore: Done running exec logcat -d -T '2-4 17:48:16.000' -f /storage/emulated/0/FIRST/matchlogs/Match-0-9911DT-DataFetcher.txt -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-04 17:48:44.103 2120-2904/com.qualcomm.ftcrobotcontroller I/RobotCore: exiting match logcat for /storage/emulated/0/FIRST/matchlogs/Match-0-9911DT-DataFetcher.txt
